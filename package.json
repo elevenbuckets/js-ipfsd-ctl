@@ -83,7 +83,7 @@
     "ipfs-api": "^18.1.2",
     "ipfs-repo": "^0.18.7",
     "joi": "^13.1.2",
-    "lodash.clone": "^4.5.0",
+    "lodash.clonedeep": "^4.5.0",
     "lodash.defaults": "^4.2.0",
     "lodash.defaultsdeep": "^4.6.0",
     "multiaddr": "^3.0.2",
